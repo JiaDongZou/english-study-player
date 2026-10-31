@@ -1,0 +1,12 @@
+{
+  "name": "jujian-english-study-player",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node verify.cjs",
+    "check": "node --check app.js"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
